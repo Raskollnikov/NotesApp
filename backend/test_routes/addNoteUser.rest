@@ -1,0 +1,7 @@
+POST http://localhost:3000/users/6677e6aaef6b99b7feaa0072/notes
+Content-Type: application/json
+
+{
+    "title":"Kazanostra dva",
+    "user":"6677e6aaef6b99b7feaa0072"
+}

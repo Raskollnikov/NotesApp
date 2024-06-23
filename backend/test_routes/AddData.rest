@@ -1,0 +1,7 @@
+POST http://localhost:3000/note
+Content-Type: application/json
+
+{
+  "title": "Arsen's note",
+  "userId":"6677e6aaef6b99b7feaa0072"
+}
